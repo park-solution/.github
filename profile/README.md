@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./../park-solution-logo-readme.png" width="200px">
+  <img src="./park-solution-logo-readme.png" width="200px">
   <h1 align="center">Park Solution</h1>
   <h4 align="center">
     Plataforma para gerenciamento de Estacionamentos
